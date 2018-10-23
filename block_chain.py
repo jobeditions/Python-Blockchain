@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" Code written entirely by Eric Alcaide.
+"""
 
 	Simple Blockchain where each block points
 	to the previous block. It's a basic implementation
